@@ -96,12 +96,6 @@ Drowsiness-Detection/
 ## 1. Install Dependencies
 
 ```bash
-pip install -r requirements.txt
-```
-
-If installing manually:
-
-```bash
 pip install opencv-python
 pip install numpy
 pip install scipy
@@ -115,10 +109,10 @@ pip install dlib
 
 ## 2. Download Dlib Model
 
-Download:
+Download: [Github](https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat)
 
 ```
-shape_predictor_68_face_landmarks.dat
+shape_predictor_68_face_landmarks.dat 
 ```
 
 Place it inside:
