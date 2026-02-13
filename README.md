@@ -57,9 +57,6 @@ Drowsiness-Detection/
 │   ├── drowsiness_detection.py
 │   └── flask_app.py
 │
-├── dat/
-│   └── shape_predictor_68_face_landmarks.dat
-│
 ├── whl/
 │   └── dlib-19.24.2-cp39-cp39-win_amd64.whl
 │
