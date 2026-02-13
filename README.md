@@ -48,7 +48,7 @@ Data is uploaded to **ThingSpeak Cloud** every 15 seconds and displayed on a **F
 # Folder Structure
 
 ```
-Driver-Drowsiness-IoT/
+Drowsiness-Detection/
 │
 ├── basepaper/
 │   └── IoT-Based_Non-Intrusive_Automated_Driver_Drowsiness_Monitoring.pdf
@@ -68,7 +68,11 @@ Driver-Drowsiness-IoT/
 │   ├── distracted.png
 │   ├── yawning.png
 │   ├── dashboard.jpg
+│   │
 │   └── thingspeak/
+│       ├── drowsy.jpeg
+│       ├── distracted.jpeg
+│       └── yawning.jpeg
 │
 └── README.md
 ```
