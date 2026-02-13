@@ -195,7 +195,7 @@ https://api.thingspeak.com/update
 
 ## Flask Dashboard (ThingSpeak Live Monitoring)
 
-![Dashboard](results/dashboard.png)
+![Dashboard](results/dashboard.jpg)
 
 ---
 
